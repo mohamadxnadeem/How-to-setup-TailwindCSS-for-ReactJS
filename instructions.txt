@@ -1,0 +1,6 @@
+Here are the instructions on how to set it for your project.
+
+Check out the following link for the instructions on how to set up tailwind css for your React JS project:
+
+https://tailwindcss.com/docs/guides/create-react-app
+
